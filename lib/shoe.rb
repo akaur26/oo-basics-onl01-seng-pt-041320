@@ -12,4 +12,4 @@ def cobble()
   end
 end
 
-shoe.new
+shoe.new("Nike")
