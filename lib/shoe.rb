@@ -12,3 +12,4 @@ def cobble()
   end
 end
 
+shoe.new
